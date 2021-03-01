@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Awareness
 has_children: true
 ---
