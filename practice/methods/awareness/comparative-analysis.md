@@ -2,6 +2,7 @@
 layout: default
 title: Comparative analysis
 parent: Awareness
+grand_parent: Bixal Methods
 ---
 
 # Comparative analysis

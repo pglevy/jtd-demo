@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Awareness
+parent: Bixal Methods
+grand_parent: Practice
 has_children: true
 ---
 
